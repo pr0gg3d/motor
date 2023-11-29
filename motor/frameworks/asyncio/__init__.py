@@ -25,7 +25,7 @@ import multiprocessing
 import os
 import warnings
 
-from asyncio import coroutine  # For framework interface.
+# from asyncio import coroutine  # For framework interface.
 from concurrent.futures import ThreadPoolExecutor
 
 
